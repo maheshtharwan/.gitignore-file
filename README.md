@@ -1,4 +1,4 @@
 # .gitignore-file
 <b>This is my first Git Repository</b>
 <br>
-Author: Mahesh Tharwan
+Author: Mahesh Tharwann
